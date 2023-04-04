@@ -1,7 +1,7 @@
 /*
- * [NetPay].java
- * Author:  [Tom Kunampuram] 
- * Submission Date:  [01/23/2023]
+ * [PayoffDebt].java
+ * Author:  [Faraz Sunil] 
+ * Submission Date:  [09/09/2022]
  *
  * Purpose: A brief paragraph description of the
  * program. What does it do?
@@ -28,7 +28,6 @@
  */
 
 /**
- * @author Kunamp
  *
  */
 import java.util.Scanner;
